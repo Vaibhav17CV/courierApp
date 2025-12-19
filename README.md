@@ -31,4 +31,5 @@ This project implements both parts of the courier challenge:
 ---
 
 ## 🧮 Delivery Cost Formula
+-Total Cost = Base Cost + (Weight × 10) + (Distance × 5) - Discount
 
